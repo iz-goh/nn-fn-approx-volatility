@@ -11,7 +11,7 @@ In this project, I attempt to use a regular feed forward neural network as a fun
 * Volatility of the previous 5 days -- Calculated from SPY data
 
 ## Packages used
-Pandas is for data cleaning, PyTorch is used for the creation and evaluation of the Neural Network, and matplotlib to visualise.
+Pandas is for data cleaning, PyTorch is used for the creation and evaluation of the Neural Network, and Matplotlib to visualise.
 
 ## Usage
 Feel free to download the project and experiment with the neural network, improve it, and create a pull request should you have any suggestions for improvement of the project.
